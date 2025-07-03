@@ -1,2 +1,133 @@
-# Site
-Site Lilás
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lilás - Criação de Sites</title>
+  <link rel="stylesheet" href="sitelilas.css" />
+  
+
+
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+
+
+</head>
+<body>
+  <header class="topbar">
+    <div class="container">       
+      
+
+
+<div class="logo-container">
+  <img src="logolilas.jpg" alt="Logo Lilás" class="logo-img">
+</div>
+      <a href= "https://wa.link/9hn4f9"><img src="whatsapp.png" alt="whatsapp" class="logowhatsapp" /></a> </div>
+   
+  </header>
+
+<section class="hero">
+
+<img src="fotoinicial.jpg" alt="Arte fundo" class="hero-img" width="1600" />
+  <div class="hero-overlay">
+  <img src="inicioelementos.svg" alt="elementostextinicial" class="hero-overlay-img" />
+    
+<br></br><br></br><br></br>
+
+    <a href="#cards-section" class="btn">Conheça as oportunidades</a>
+  </div>
+
+</section>
+<br></br>
+
+<div class="telefoneinicio">
+<p>Na Lilás, criamos ferramentas estratégicas que impressionam visualmente e te ajudam a vender com mais autoridade.</p><br></br>
+<img src="telefoneinicio.png" alt="telefoneinicial" /> 
+</div>
+
+ <p class="promessas">
+<strong>Aumente sua visibilidade online</strong><br> 
+Coloque seu negócio em destaque no mundo digital, atraindo novos clientes com facilidade.</p>
+ <p class="promessas">
+<strong>Conquiste autoridade</strong><br> 
+Impressione e faça com que sua marca seja reconhecida como autoridade no que faz.</p>
+ <p class="promessas">
+<strong>Venda mais e com mais eficiência</strong><br> 
+Garanta que cada visita tenha um maior potencial de se transformar em venda. </p>
+ 
+  </section>
+
+
+  <section id="cards-section" class="cards-section">
+ <div class="ofertas">
+
+<div class="textoservicos">
+<h2>A Lilás proporciona a você:</h2></div>
+
+    <div class="card">
+      <a href= "https://wa.link/9hn4f9"><img src="SITESOFERTA.jpg" alt="Sites Profissionais" /> </a>
+    </div> 
+
+ <div class="card">
+      <a href= "https://wa.link/9hn4f9"><img src="SITEcasamentooferta.jpg" alt="Sites Profissionais" /> </a>
+    </div> 
+
+    <div class="card">
+       <a href= "https://wa.link/9hn4f9"><img src="CHATBOTOFERTA.jpg" alt="chatbot whatsapp" /> </a>
+    </div>  
+
+    <div class="card">
+       <a href= "https://wa.link/9hn4f9"><img src="TECHFOLIOOFERTA.jpg" alt="Techfólios" /></a> 
+
+   </div>
+    </div>
+  </section>
+
+  <section class="portfolio">
+    <h2>Portfólio – Explore mundos construídos pela Lilás</h2><br> 
+     <div class="exemplotelefone"><img src="telefone.svg" alt="Exemplo em celular" /> </div>
+
+<div class="exemplocomputador">
+    <img src="pc.svg" alt="Exemplo em notebook" /></div> <br>
+
+    <a href="https://www.behance.net/lilssamila" class="btncta">Ver portfólio completo</a>
+<p></p>
+  </section>
+
+  <section class="etapas">
+    <h3>PASSO A PASSO<br>como seu projeto é construído?</h3><br></br>
+    <div class="step">
+      <p><strong>1- Planejamento</strong><br></br>Iniciamos com um entendimento das suas expectativas e metas para garantir um mundo Lilás sob medida para você.</p>
+    </div>
+    <div class="step">
+
+      <p><strong>2- Modelagem e Prototipagem</strong><br></br>Após você enviar as fotos e elementos para tornar seu projeto real, desenvolvemos o esqueleto, layout e organização das informações.</p>
+    </div>
+    <div class="step">
+    
+      <p><strong>3- Desenvolvimento</strong><br></br>Transformamos o protótipo no seu mundo! Após a construção do seu projeto, realizamos testes rigorosos para garantir que todas as funcionalidades estejam em alta qualidade.</p>
+    </div>
+    <div class="step">
+   
+      <p><strong>4- Otimização e Suporte</strong><br></br>Após a entrega, otimizamos e oferecemos assistência contínua.</p>
+    </div>
+</section>
+
+ 
+<div class="ctafinal">
+<br></br><p></p>
+<h2>Vamos criar um <br>projeto juntos!</h2> <br></br>
+<br> <a href= "https://wa.link/9hn4f9"><button class="btncta"> Criar seu mundo</button></a></br>
+ </div>
+
+ <footer class="footer">
+    <p>&copy; 2025 Lilás. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
