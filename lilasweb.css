@@ -103,7 +103,7 @@ color: #AEA5C0 !important;
 .hero {
   position: relative;
   width: 100%;
-  min-height: 80vh;
+  min-height: 100vh;
   top: 0;
   object-fit: contain;
   background: white;
@@ -209,7 +209,7 @@ text-transform: uppercase;
   justify-content: space-between;
   padding: 0.8rem 5%;
   border-bottom: 1px solid rgba(61, 20, 131, 0.1);
-BACKGROUND: linear-gradient(280deg, #DCD4EF 50%, #C6BCD9 100%);
+BACKGROUND: linear-gradient(280deg, #ffff 50%, #C6BCD9 100%);
 }
 
 .nav.nav-active .nav-left {
